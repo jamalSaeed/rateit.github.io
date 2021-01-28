@@ -1,0 +1,153 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+body{
+    background-color: #000000;
+    
+}
+.navbar i{
+    color: #f5c518;
+    margin-left: 0.5vw;
+}
+
+.thumbnails a{
+    text-decoration: none;
+}
+.slider{
+    margin: auto;
+    width: 98vw;
+    height: 60vh;
+}
+
+.imagesSlider{
+    width: 99vw;
+    height: 60vh;
+}
+
+h5{
+    display: inline-flex;
+    color: thistle;
+    margin-left: 0.5vw;
+    
+}
+h4{
+    display: inline-flex;
+    color: thistle;
+    margin-left: 0.5vw;
+}
+.my-col{
+    
+    border-radius: 10px;
+    background-image: url("6SyqTgj.png");
+    
+}
+.my-col button{
+    padding-top: 10px;
+    width: 190px;
+    transition: 0.5s;
+}
+.my-col button:hover{
+    transform: translateY(-12px);
+}
+
+
+.my-row img{
+    border-color: thistle;
+    transition: 0.5s;
+    border-radius: 10px;
+    width: 4000px;
+    height: 350px;
+}
+.my-row img:hover{
+    transform: translateY(-12px);
+}
+
+.my-row i{
+    color: #f5c518;
+    margin-left: 0.5vw;
+    margin-bottom: 2vh;
+}
+.my-col a{
+
+    color: white;
+}
+.my-row button{
+    
+    border-color: #af181f;
+    background-color: #af181f;
+    margin-bottom: 60px;
+}
+.my-row button:hover{
+    
+    border-color: #af181f;
+    background-color: #af181f;
+    
+}
+
+.line{
+    display: inline-flex;
+    margin-top: 0.5vh;
+    margin-left: 1vw;
+    border-left: 6px solid #af181f;
+  height: 6vh;
+}
+
+
+/* .footer{
+    background-color:#1a1a1a;
+} */
+.footer{
+    display: flex;
+  justify-content: center;
+}
+.footer img{
+    margin-left: 5vw;
+}
+.navbar{
+    background-color: #af181f;
+}
+.navbar a:hover{
+    border-radius: 20px;
+    transition: 1s;
+    background-color: #af181f;
+}
+.navbar button{
+    border-color:  #af181f;
+    
+    color: #af181f;
+}
+.navbar button:hover{
+    border-color: #af181f;
+    background-color: #af181f;
+    color: white;
+}
+
+.rowFooter{
+    margin-left: 10vw;
+}
+
+
+.Names button{
+    background-color: #af181f;
+    margin-left: 0.5vw;
+    text-align: center;
+}
+.footer img{
+    display: inline-flex;
+    transition: 0.5s;
+}
+.footer img:hover{
+    transform: translateY(-12px);
+}
+.navbar-nav i{
+    color: #af181f;
+}
+
+.rowFooters i{
+    width: 20px;
+    margin-left: 70px;
+}

@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+body{
+    background-color: #000000;
+    
+}
+.row label{
+    color: beige;
+}
+.navbar i{
+    color: #FF00FF;
+    margin-left: 0.5vw;
+}
+
+.line{
+    display: inline-flex;
+    margin-top: 0.5vh;
+    margin-left: 1vw;
+    border-left: 6px solid #FF00FF;
+    height: 6vh;
+}
+
+
+
+h5{
+    display: inline-flex;
+    color: thistle;
+    margin-left: 0.5vw;
+    
+}
+h4{
+    display: inline-flex;
+    color: thistle;
+    margin-left: 0.5vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+.rowFooters i{
+    width: 20px;
+    margin-left: 70px;
+}
